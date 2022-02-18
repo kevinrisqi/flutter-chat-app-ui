@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:cashy/widgets/chat_tile.dart';
 import 'package:flutter/material.dart';
 import 'package:cashy/theme.dart';
